@@ -1,7 +1,8 @@
 CREATE TABLE dados (
-    id int,
-    data1 varchar(50),
-    data2 varchar(50),
-    hostname varchar(50),
-    ip varchar(50)
+    Alunoid int,
+    Nome varchar(50),
+    Sobrenome varchar(50),
+    Endereco varchar(150),
+    Cidade varchar(50),
+    Host varchar(50)
 );
